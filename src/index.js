@@ -6,6 +6,7 @@ import App from './App';
 import reducer, { initialState } from './reducer';
 import { StateProvider } from './StateProvider';
 import reportWebVitals from './reportWebVitals';
+// import {firebase} from './firebase';
 
 ReactDOM.render(
   <React.StrictMode>
